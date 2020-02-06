@@ -1,3 +1,6 @@
+# this file goes in oe-alliance-core/meta-oe/recipes-multimedia/dvbreader/dvbreader.bb
+# add "dvbreader" as RDEPENDS in oe-alliance-core/meta-oe/recipes-oe-alliance/image/oe-alliance-feeds.bb
+
 SUMMARY = "Reads data from dvb streams on enigma2 receivers."
 DESCRIPTION = "Reads data from dvb streams on enigma2 receivers."
 MAINTAINER = "Huevos"
